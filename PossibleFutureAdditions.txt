@@ -1,0 +1,7 @@
+put logo/icon in when it arrives
+
+Possible future additions:
+look into SIMDRegister class for dsp operation optimizations and visualizations
+cache more of the backgrounds as images(moveable window backgrounds, div lines, and outlines)(peak meter outlines, text, number boxes)
+make resizable (keep aspect ratio, limited heavily, 3 modes: small, medium, large) current would be the largest
+more analyser options(different slopes, no smoothing, anything people ask for)?
