@@ -38,7 +38,7 @@ A professional-grade, feature-rich parametric EQ plugin built with JUCE. Semi-Pr
 
 
 
-### Pre-built Binaries
+### Pre-built Binary
 
 1. Download the latest release from the [**GitHub Releases**](https://github.com/cwiggins12/TwelveBandEq/releases) page.  
 
@@ -95,7 +95,7 @@ cd TwelveBandEq
 
 
 
-### Plugin Formats
+### Plugin Format
 
 - VST3
 
